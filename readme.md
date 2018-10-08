@@ -7,7 +7,7 @@ Nachdem ich im März 2012 mit EKIW angefangen habe bin ich
 nunmehr, im Oktober 2018, nach einer bewegten Zeit bei 
 Kapitel 30 - Neubeginn angekommen. 
 
-Das Programm hilft für den eingeschlagenen Weg im ersten 
-Absatz.
+Das Konsolen-Programm ist als schnelle Unterstützung für den 
+eingeschlagenen Weg im erste Absatz gedacht.
 
 Kontakt: c@yamb.codes
